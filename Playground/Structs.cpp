@@ -1,3 +1,4 @@
+#include <climits>
 #include "Structs.h"
 
 constexpr int STRUCT_ARRAY_SIZE = static_cast<int>(1e8);

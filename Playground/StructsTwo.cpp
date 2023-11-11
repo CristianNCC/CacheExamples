@@ -1,3 +1,5 @@
+#include <climits>
+#include <cstring>
 #include "StructsTwo.h"
 
 constexpr int STRUCT_ARRAY_TWO_SIZE = static_cast<int>(1e7);
@@ -13,7 +15,7 @@ void AllocAndRandomizeStructsTwo()
         g_arrayStructs_two[i].m_velocity = static_cast<double>(randNum);
         g_arrayStructs_two[i].m_strength = randNum;
         g_arrayStructs_two[i].m_health = randNum;
-        strcpy_s(g_arrayStructs_two[i].m_loot, "Loot");
+        strncpy(g_arrayStructs_two[i].m_loot, "Loot", strlen("Loot")+1);
     }
 }
 
