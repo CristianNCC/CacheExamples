@@ -1,6 +1,7 @@
 #pragma once
 
 #include "Timer.h"
+#include <climits>
 
 constexpr int ARRAY_SIZE = static_cast<int>(5e8);
 
