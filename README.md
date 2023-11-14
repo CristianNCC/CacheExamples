@@ -23,4 +23,4 @@ There is a Makefile inside the project which can be used to build all the files.
 
 [Timing attack](https://en.wikipedia.org/wiki/Timing_attack)
 
-[Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability))
+[Branch prediction](https://en.wikipedia.org/wiki/Branch_predictor) and [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability))
