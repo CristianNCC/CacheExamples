@@ -14,3 +14,13 @@ Open the sln project in Microsoft Visual Studio.
 
 ### Running the exercises on Linux/MacOS
 There is a Makefile inside the project which can be used to build all the files.
+
+### Extras
+
+[Are lists evil? -- Bjarne Stroustrup](https://isocpp.org/blog/2014/06/stroustrup-lists)
+
+[Intrusive linked lists](https://www.data-structures-in-practice.com/intrusive-linked-lists/)
+
+[Timing attack](https://en.wikipedia.org/wiki/Timing_attack)
+
+[Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability))
