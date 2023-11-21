@@ -17,6 +17,8 @@ There is a Makefile inside the project which can be used to build all the files.
 
 ### Extras
 
+[Data-oriented design](https://en.wikipedia.org/wiki/Data-oriented_design)
+
 [Are lists evil? -- Bjarne Stroustrup](https://isocpp.org/blog/2014/06/stroustrup-lists)
 
 [Intrusive linked lists](https://www.data-structures-in-practice.com/intrusive-linked-lists/)
